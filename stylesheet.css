@@ -45,3 +45,11 @@ button:hover{
 
     background-color: darkorange;
 }
+.red{
+    background-color: orange;
+    color: gray;
+}
+.red:hover{
+    background-color: gray;
+    color:orange ;
+}
